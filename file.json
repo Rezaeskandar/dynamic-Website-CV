@@ -1,0 +1,64 @@
+
+ {  "project1": [{
+        "name": "Guess Random Number Project",
+        "image": "img/bild2.png",
+        "projectLink": "https://github.com/Rezaeskandar/Guss-Number.git",
+        "live": "https://rezaeskandar.github.io/Guss-Number/",
+        "box": "read more"
+
+    }],
+  
+ 
+    
+   "project2": [  {
+        "image": "img/bild3.jpg",
+        "name": "Popup Modal Project ",
+        "projectLink": "https://github.com/Rezaeskandar/poup-Modal.git",
+        "live": "https://rezaeskandar.github.io/poup-Modal/",
+        "box": "read more"
+
+    }],
+
+
+
+    "project3": [  {
+        "image": "img/bild4.jpg",
+        "name": "Expand File",
+        "projectLink": "https://github.com/Rezaeskandar/Expand-Box.git",
+        "live": "https://rezaeskandar.github.io/Expand-Box/",
+        "box": "read more"
+
+    }],
+
+
+
+    "project4": [ {
+        "image": "img/bild5.jpg",
+        "name": " Text Color chanhe",
+        "projectLink": "https://github.com/Rezaeskandar/text-change-color-.git",
+        "live": "https://rezaeskandar.github.io/text-change-color-/",
+        "box": "read more"
+
+    }],
+
+
+    "project5": [  {
+        "image": "img/bild1.jpg",
+        "name": "Color Number",
+        "projectLink": "https://github.com/Rezaeskandar/table-change-color.git",
+        "live": "https://rezaeskandar.github.io/table-change-color/",
+        "box": "read more"
+
+    }],
+
+
+    "project6": [ {
+        "image": "img/bild6.jpg",
+        "name": "Random Coror Change",
+        "projectLink": "https://github.com/Rezaeskandar/Random-Color.git",
+        "live": "https://rezaeskandar.github.io/Random-Color/",
+        "box": "read more"
+
+    }]
+
+ }

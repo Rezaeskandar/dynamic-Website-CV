@@ -1,0 +1,44 @@
+{
+    "service1": [
+        {
+            "name": "Fronend",
+            "name2": "CSS",
+            "name3": "HTML",
+            "database":"MySqu",
+            "more": "DOM",
+            "erfarenher": "since: 2019",
+            "school": " School: Chas Academy"
+          
+            
+            
+        }
+    ],
+
+    "service2": [
+        {
+            "name": "Backend",
+            "name2": "Databas",
+            "name3": "OOP",
+            "database":"MangoDb",
+            "projectExaple": "",
+            "more": "",
+            "erfarenher": "since: 2020",
+            "school": " School: Chas Academy"
+        }
+    ],
+
+    "service3": [
+        {
+            "name": "Backend",
+            "name2": "Narrow AI",
+            "name3": "Machine Learning",
+            "database":" Neural Networks",
+            "projectExaple": "Big Data",
+            "more": "Deep Learning",
+            "erfarenher": "since: 2022",
+            "school": " School: Chas Academy"
+        }
+    ]
+   
+
+}

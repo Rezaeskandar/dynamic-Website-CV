@@ -1,0 +1,10 @@
+{
+    "MoreAboutMe":[{
+        "image": "img/bildcvModal.jpg",
+        "name": "Name: Reza Eskandari",
+        "Adress": "Adress: Hagvägen 34 ",
+        "phone": "Phone: 076111222",
+        "send": "chat with me:"
+
+    }]
+}
